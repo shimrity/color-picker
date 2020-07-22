@@ -1,3 +1,0 @@
-<Text val={valu} inc={inc} factor={1}/> <br/>
-     <Text val={valu} inc={inc} factor={60}/> <br/>
-     <Text val={valu} inc={inc} factor={3600}/> <br/>   
